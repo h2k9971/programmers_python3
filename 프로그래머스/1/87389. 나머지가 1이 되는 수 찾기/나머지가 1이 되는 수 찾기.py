@@ -5,7 +5,7 @@ def solution(n):
 
         if n % answer == 1:
             break
-        
+    
         answer += 1
     
     return answer
